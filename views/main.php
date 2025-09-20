@@ -26,7 +26,7 @@ else
 		<ul class="nav-level">
 			<li><?
 				if(!$uu->id) {
-                    echo $home . '<a href="/about">&thinsp;*&nbsp;</a>';
+                    echo $home . '<a href="/about">&thinsp;X&nbsp;</a>';
 				} else {
 				    ?><a href="/"><?= $head; ?></a><?
 				}
