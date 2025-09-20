@@ -5,7 +5,7 @@
 
 $site_title = 'w-w-w';
 $head = 'Hello';
-$site = 'w-w-w-orld.';
+$site = 'you.';
 $home = $head . ", " . $site;
 $card_default = '/media/jpg/card-default.jpg';
 $logo_src = '/media/jpg/logo.jpg';
