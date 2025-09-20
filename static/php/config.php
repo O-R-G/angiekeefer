@@ -3,7 +3,7 @@
     site-specific config
 */
 
-$site_title = 'w-w-w';
+$site_title = 'nope';
 $head = 'Second';
 $site = 'thoughts';
 $home = $head . ", " . $site;
